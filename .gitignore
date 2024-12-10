@@ -1,0 +1,10 @@
+# Azure Functions localsettings file
+local.settings.json
+
+# Azurite
+__blobstorage__/
+__azurite_*
+
+# Build results
+[Bb]in/
+[Oo]bj/
